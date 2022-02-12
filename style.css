@@ -3,7 +3,7 @@
     background: #efefef!important;
 }
 .navbar{
-    height: 100px;
+    min-height: 100px;
 }
 .nav-link{
     color: #4e4e4e!important;
